@@ -1,11 +1,11 @@
 <div align="center">
   <img src="./profile.png" width="170" alt="Profile picture" />
 
-  <h1>Hey, ik ben Sebas 👋</h1>
+  <h1>Hey, I'm Sebas 👋</h1>
 
   <p>
-    Developer uit Nederland die graag mooie, slimme en bruikbare dingen bouwt.
-    Van kleine experimenten tot complete projecten: ik hou van code met karakter.
+    Developer from the Netherlands who loves building beautiful, smart, and useful things.
+    From tiny experiments to complete projects: I like code with character.
   </p>
 
   <p>
@@ -17,35 +17,35 @@
 
 ---
 
-## 🚀 Wat ik doe
+## 🚀 What I Do
 
-Ik bouw digitale oplossingen met oog voor detail, snelheid en gebruiksgemak.
-Mijn favoriete soort project is het soort waarbij een idee verandert in iets dat echt werkt.
+I build digital solutions with an eye for detail, speed, and usability.
+My favorite kind of project is the kind where an idea turns into something that truly works.
 
 ```txt
-💡 Idee         -> helder plan
-🧩 Complexiteit -> nette structuur
-⚡ Prototype    -> werkend product
-🎯 Product      -> klaar voor gebruik
+💡 Idea        -> clear plan
+🧩 Complexity  -> clean structure
+⚡ Prototype   -> working product
+🎯 Product     -> ready to use
 ```
 
-## ✨ In cijfers
+## ✨ By The Numbers
 
 | 🌍 Country | 🧑‍💻 Developer since | 🏆 Projects completed |
 |---|---:|---:|
 | Netherlands | 2013 | 130+ |
 
-## 🛠️ Mijn vibe
+## 🛠️ My Vibe
 
-- 🧠 Nieuwsgierig naar hoe dingen werken
-- 🎨 Fan van speelse details en nette interfaces
-- 🔧 Graag bezig met bouwen, verbeteren en automatiseren
-- 🚀 Altijd in voor een goed idee dat net iets slimmer kan
+- 🧠 Curious about how things work
+- 🎨 Fan of playful details and clean interfaces
+- 🔧 Into building, improving, and automating
+- 🚀 Always up for a good idea that can be made a little smarter
 
 ## 🎮 Side quest
 
-Als iets saaier kan, kan het meestal ook leuker.
-Daarom probeer ik zelfs praktische projecten een beetje persoonlijkheid mee te geven.
+If something can be more boring, it can usually be more fun too.
+That's why I try to give even practical projects a bit of personality.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,18,20,24&section=footer" alt="Colorful footer wave" />
