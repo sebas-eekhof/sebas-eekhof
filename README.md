@@ -23,7 +23,7 @@ Ik bouw digitale oplossingen met oog voor detail, snelheid en gebruiksgemak.
 Mijn favoriete soort project is het soort waarbij een idee verandert in iets dat echt werkt.
 
 ```txt
-💡 Idee          -> helder plan
+💡 Idee         -> helder plan
 🧩 Complexiteit -> nette structuur
 ⚡ Prototype    -> werkend product
 🎯 Product      -> klaar voor gebruik
